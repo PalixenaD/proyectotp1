@@ -1,0 +1,59 @@
+=============================================
+CONFIGURACIÓN DE CONEXIÓN DE RED - USUARIO
+=============================================
+
+INFORMACIÓN DEL USUARIO:
+----------------------
+Nombre: [NOMBRE_COMPLETO_USUARIO]
+Departamento: [NOMBRE_DEPARTAMENTO]
+Puesto: [PUESTO_TRABAJO]
+Fecha: [FECHA_CONFIGURACIÓN]
+
+CONFIGURACIÓN DE RED:
+-------------------
+Tipo de Conexión: Ethernet/Wi-Fi
+SSID: [NOMBRE_RED_WIFI]
+Dirección IP: [192.168.1.XXX]
+Máscara de Subred: [255.255.255.0]
+Gateway: [192.168.1.1]
+DNS Primario: [8.8.8.8]
+DNS Secundario: [8.8.4.4]
+
+CREDENCIALES DE ACCESO:
+---------------------
+Usuario de Red: [USUARIO_RED]
+Dominio: [NOMBRE_DOMINIO]
+Contraseña: [************]
+
+CONFIGURACIÓN AVANZADA:
+---------------------
+VLAN: [VLAN_NUMBER]
+Puerto: [PUERTO_SWITCH]
+Switch: [IP_SWITCH]
+MAC Address: [XX:XX:XX:XX:XX:XX]
+
+APLICACIONES AUTORIZADAS:
+------------------------
+☑ Navegador Web
+☑ Cliente de Correo
+☑ Suite Ofimática
+☑ [OTRA_APLICACIÓN]
+
+RESTRICCIONES:
+-------------
+Horario de acceso: [08:00 - 18:00]
+Sitios bloqueados: [LISTA_SITIOS]
+Ancho de banda: [100 Mbps]
+
+OBSERVACIONES:
+-------------
+[NOTAS_ADICIONALES_O_OBSERVACIONES]
+
+FIRMAS:
+------
+Técnico: ___________________   Fecha: __/__/____
+Usuario: ___________________   Fecha: __/__/____
+
+=============================================
+CONFIGURACIÓN APLICADA EXITOSAMENTE
+=============================================
