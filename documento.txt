@@ -12,3 +12,4 @@ modelo: por servidor, procesador
 4-sap hana
 licencia:comercial(sap)
 modelo: pago por uso
+hola revise el archivo, soy el ider
