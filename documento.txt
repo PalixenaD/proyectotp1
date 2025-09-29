@@ -1,0 +1,14 @@
+1-oracle database
+licencia: comercial propietaria
+
+2-microsoft srl server
+licencia: comercial(microsoft)
+versiones:enterprise, standard, express
+
+3-imb db2
+licencia: comercial propiedades de imb
+modelo: por servidor, procesador
+
+4-sap hana
+licencia:comercial(sap)
+modelo: pago por uso

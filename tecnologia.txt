@@ -1,0 +1,5 @@
+opciones de tecnologia para el desarrolo web:
+frontend:Frameworks/Librerías 
+backend:aPls	
+bases de datos:relaciones 
+revisado por el lider
